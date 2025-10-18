@@ -21,9 +21,9 @@
    3. Multi-line comments using triple quotes (`"""`)
 
    4. Docstrings for documenting functions and modules  
-      * This should be moved to the lesson 7  
+
    5. Accessing docstrings with `help()` or `.__doc__`  
-      * This should be moved to the lesson 7
+
 
 3. **Skill 3: Declaring and Assigning Variables**
 
@@ -39,9 +39,8 @@
         
    6. String concatenation  
         
-   7. .Skillat()  
-        
-   8. F-strings
+   7.F-strings
+      
 
 4. **Skill 4: Understanding Data Types**
 
